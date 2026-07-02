@@ -24,11 +24,11 @@ I am a software developer focused on building clean web applications and working
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurav56295&show_icons=true&theme=dark" alt="Saurav's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav56295&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saurav56295&show_icons=true&theme=radical" alt="Saurav's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saurav56295&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
